@@ -113,6 +113,8 @@ See the [docs](https://github.com/rzcoder/node-rsa#generate-new-512bit-length-ke
 
 ## Changelog
 
+**v1.0.1:** Added repository to `package.json`
+
 **v1.0.0:** Initial commit.
 
 

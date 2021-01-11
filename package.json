@@ -1,14 +1,10 @@
 {
   "name": "node-e2e",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encrypt data with RSA and AES encryption",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "node-e2e"
   },
   "keywords": [
     "e2e",
@@ -23,6 +19,10 @@
     "decrypt",
     "json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsnebulasoup/node-e2e.git"
+  },
   "author": "Kevin Bryniak",
   "license": "MIT",
   "dependencies": {
