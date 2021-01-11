@@ -1,0 +1,31 @@
+{
+  "name": "node-e2e",
+  "version": "1.0.0",
+  "description": "Encrypt data with RSA and AES encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-e2e"
+  },
+  "keywords": [
+    "e2e",
+    "encryption",
+    "decryption",
+    "cipher",
+    "security",
+    "rsa",
+    "aes",
+    "aes-256",
+    "encrypt",
+    "decrypt",
+    "json"
+  ],
+  "author": "Kevin Bryniak",
+  "license": "MIT",
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  }
+}
